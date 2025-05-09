@@ -1,5 +1,5 @@
 #set document(
-    title: "Data Fundamentals"
+    title: "Exam Scheduler"
     author: [
         "Matthew Mckee",
         "Varad Kulkarni"
